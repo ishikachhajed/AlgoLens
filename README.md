@@ -2,7 +2,7 @@
 
 **AlgoLens** is a fully interactive, real-time Data Structures and Algorithms (DSA) visualizer built for learners, educators, and developers. It visually demonstrates how various data structures and algorithms work under the hood, with clear animations, per-line code highlighting, and real-time explanations.
 
-🔗 **Live Demo:** [https://neeldesai1085.github.io/AlgoLens](https://neeldesai1085.github.io/AlgoLens)
+🔗 **Live Demo:** [ishikachhajed.github.io/AlgoLens](ishikachhajed.github.io/AlgoLens)
 
 ---
 
